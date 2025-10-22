@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Dipan!<br><br>💻 CS student at St. Xavier's College, Kathmandu<br>🦾 AI/ML Enthusiast<br>🐍 Freelance Python Developer (Open to work!)<br>
+Hi, I am Dipan!<br><br>💻 CS student at St. Xavier's College, Kathmandu<br>🦾 AI and Database Engineering Enthusiast<br>🐍 Freelance Python Developer (Open to work!)<br>
 
 
 # 💻 Tech Stack:
