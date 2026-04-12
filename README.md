@@ -25,8 +25,8 @@ Data wrangling, cleaning, and transformation at both small and large scale.
 Have worked with distributed processing via PySpark for batch data jobs.
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Databases](https://img.shields.io/badge/SQL%20Databases-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL Databases](https://img.shields.io/badge/NoSQL%20Databases-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Work with both relational and document-oriented databases. Comfortable with
 schema design, writing complex queries, and understanding how storage choices
